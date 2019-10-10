@@ -1,3 +1,3 @@
 # portfolio_2019
 
-[URL](https://tmrekk121-portfolio.herokuapp.com)
+[ポートフォリオURL](https://tmrekk121-portfolio.herokuapp.com)
